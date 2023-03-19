@@ -1,0 +1,7 @@
+### logger ###
+# Debug,Info,Warn,Error
+# Empty "" applys not using output which is set console or log.
+[logger]
+CONSOLE_LEVEL = "dbg"
+LOG_LEVEL = "err"
+LOG_PATH = "./testData/test_log.json"

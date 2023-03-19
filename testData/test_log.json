@@ -1,0 +1,3 @@
+{"level":"error","time":"2023-03-19T19:05:39.137+0900","msg":"No.6: Please write messages here!","user struct":{"ID":1,"Name":"goroumaru"}}
+{"level":"error","time":"2023-03-19T19:05:39.137+0900","msg":"No.6: Please write messages here!","slice in struct":{"ID":1,"Members":["goroumaru41gou","goroumaru42gou"]}}
+{"level":"error","time":"2023-03-19T19:05:39.137+0900","msg":"No.7: Please write messages here!","struct with method":{"Timestamp":1679220339137}}

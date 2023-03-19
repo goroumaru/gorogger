@@ -1,0 +1,5 @@
+.vscode
+
+*.env
+*.ini
+*.log
